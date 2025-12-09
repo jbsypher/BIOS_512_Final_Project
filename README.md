@@ -32,7 +32,7 @@ This project analyzes the efficiency and equity of the United States federal dis
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/fema-disaster-analysis.git](https://github.com/YOUR_USERNAME/fema-disaster-analysis.git)
+    git clone https://github.com/jbsypher/BIOS_512_Final_Project.git
     ```
 2.  **Install System Dependencies (Linux/Cloud):**
     ```bash
