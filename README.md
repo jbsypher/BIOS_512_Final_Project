@@ -13,7 +13,7 @@ This project analyzes the efficiency and equity of the United States federal dis
 | :--- | :--- |
 | **`FEMA_Disaster_Analysis_Jonathan_Barta.pdf`** | **Read This First.** The complete, formatted executive report with all findings and figures. |
 | **`FEMA_Disaster_Analysis_Jonathan_Barta.html`** | **Interactive Report.** The HTML output generated from RMarkdown. Best for viewing code and charts side-by-side. |
-| `FEMA Disaster Analysis - Jonathan Barta.Rmd` | ⚙**Source Code (R).** The reproducible RMarkdown script required for the assignment. |
+| `FEMA Disaster Analysis - Jonathan Barta.Rmd` | **Source Code (R).** The reproducible RMarkdown script required for the assignment. |
 | `FEMA_Disaster_Report_Full.ipynb` | **Source Code (Jupyter).** The original exploratory analysis performed in JupyterLab. |
 | `Charts/` |  Folder containing high-res PNG exports of all visualizations. |
 | `apt.txt` | System-level dependencies required for Linux/Cloud environments (e.g., `libxml2`, `pandoc`). |
